@@ -6,4 +6,5 @@ Suggestion
 -
  For 4th Gen Intel Core CPU, SMBIOS Version/Product Name: iMac14,1 For 10.15.x "Catalina", iMac15,1 For 11.x "Big Sur"
  
-See 5.PlatformInfo
+See 5.Add your own Platform Info(SMBIOS)
+-
